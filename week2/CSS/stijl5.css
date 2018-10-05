@@ -1,0 +1,35 @@
+body {
+    background-color:#d9ddd7;
+}
+.highlight
+{   color: yellow;
+    border-style: solid;
+    background: #6a7689;
+    margin-left:20%;
+    margin-right:20%;
+    text-align: center;
+    height: 300px;
+    width: 60%;
+}
+
+.paragraaf
+{
+    font-family:verdana;
+    width: 100%;
+    color: white;
+    background: #6a7689;
+    padding: 10px;
+}
+h1
+{
+    color: darkgreen;
+}
+a
+{
+    color: white;
+}
+a:hover {
+    color: #6df469
+}
+
+
